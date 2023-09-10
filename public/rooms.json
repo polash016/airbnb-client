@@ -1,0 +1,224 @@
+[
+  {
+    "location": "Don Kaeo, Chang Wat Chiang Mai, Thailand",
+    "image": ["https://a0.muscache.com/im/pictures/bbec438a-147f-4c81-a4b5-7518b70a8db5.jpg?im_w=960", "https://a0.muscache.com/im/pictures/417ff01f-0c34-4d89-aea1-e76ccfde82ec.jpg?im_w=1200", "https://a0.muscache.com/im/pictures/c74c60c7-d451-405a-80cc-6592189dc1a6.jpg?im_w=1200"],
+    "dateRange": "9/1/2023 - 9/14/2023",
+    "price": 456,
+    "category": "Beach",
+    "bedrooms": 4,
+    "beds": 6,
+    "bathrooms": 4,
+    "ratings": 4
+  },
+  {
+    "location": "San Sai District, Chiang Mai, Thailand",
+    "image": ["https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-32981814-unapproved/original/9605aca8-3bc2-4fde-9179-5c638e596a0c.JPEG?im_w=1200", "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-32981814-unapproved/original/0850d69f-918e-4fb4-8f01-edf9c1beea66.JPEG?im_w=720", "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-32981814-unapproved/original/bd1908b9-b333-46b1-ac7d-bf9edfa82067.JPEG?im_w=720"],
+    "dateRange": "10/1/2023 - 10/14/2023",
+    "price": 513,
+    "category": "Windmills",
+    "bedrooms": 9,
+    "beds": 12,
+    "bathrooms": 8,
+    "ratings": 4.5
+  },
+  {
+    "location": "Pasay, Metro Manila, Philippines",
+    "image": ["https://a0.muscache.com/im/pictures/2c4f51de-30d1-4847-bbfe-042ca35761e5.jpg?im_w=960", "https://a0.muscache.com/im/pictures/53bf5574-4982-429b-a498-c5831c2d550e.jpg?im_w=720", "https://a0.muscache.com/im/pictures/afa875d0-f84d-4f2c-bd8b-a037b725ec9d.jpg?im_w=720"],
+    "dateRange": "10/15/2023 - 10/28/2023",
+    "price": 456,
+    "category": "Modern",
+    "bedrooms": 2,
+    "beds": 4,
+    "bathrooms": 3,
+    "ratings": 5
+  },
+  {
+    "location": "Nusa Lembongan, Bali, Indonesia",
+    "image": ["https://a0.muscache.com/im/pictures/d91412a1-39f0-4b73-b4be-ac939a31f583.jpg?im_w=960", "https://a0.muscache.com/im/pictures/0e100f40-f843-4a67-b755-9fd53668901d.jpg?im_w=720", "https://a0.muscache.com/im/pictures/d3250be0-736c-4ff5-ba0a-05288bc597e2.jpg?im_w=720"],
+    "dateRange": "9/9/2023 - 9/24/2023",
+    "price": 513,
+    "category": "Countryside",
+    "bedrooms": 3,
+    "beds": 6,
+    "bathrooms": 4,
+    "ratings": 4
+  },
+
+  {
+    "location": "Tambon Choeng Thale, Chang Wat Phuket, Thailand",
+    "image": ["https://a0.muscache.com/im/pictures/5805dcfb-15f6-4443-aa84-0b4e1db4e1d2.jpg?im_w=960", "https://a0.muscache.com/im/pictures/cddf4468-dcca-4fd4-8e7e-4a6b22744a0c.jpg?im_w=720", "https://a0.muscache.com/im/pictures/935a46e5-71b1-48ab-a63b-4c2bc6eb747e.jpg?im_w=720"],
+    "dateRange": "9/1/2023 - 9/24/2023",
+    "price": 456,
+    "category": "Windmills",
+    "bedrooms": 1,
+    "beds": 3,
+    "bathrooms": 2,
+    "ratings": 5
+  },
+  {
+    "location": "Nusapenida, Bali, Indonesia",
+    "image": ["https://a0.muscache.com/im/pictures/miso/Hosting-32054722/original/467fa794-8884-4aa9-8386-94dba0ffef4d.jpeg?im_w=720", "https://a0.muscache.com/im/pictures/miso/Hosting-32054722/original/679d2f48-d06e-42c5-9ed4-1163ab6af5cc.jpeg?im_w=720", "https://a0.muscache.com/im/pictures/miso/Hosting-32054722/original/b8effdb0-0c08-4fd3-8ae8-f5f0b16c94d6.jpeg?im_w=960"],
+    "dateRange": "9/9/2023 - 9/22/2023",
+    "price": 345,
+    "category": "Windmills",
+    "bedrooms": 4,
+    "beds": 6,
+    "bathrooms": 4,
+    "ratings": 5
+  },
+  {
+    "location": "Kuta, Bali, Indonesia",
+    "image": ["https://a0.muscache.com/im/pictures/9f9aa173-e189-4d75-a6b8-092ffb7dde40.jpg?im_w=960", "https://a0.muscache.com/im/pictures/9779b23d-a65f-4523-9659-a5897cad8027.jpg?im_w=720", "https://a0.muscache.com/im/pictures/7ff9fb88-dfdd-40cb-8ba7-2bf7edd27378.jpg?im_w=720"],
+    "dateRange": "10/5/2023 - 10/24/2023",
+    "price": 513,
+    "category": "Beach",
+    "bedrooms": 6,
+    "beds": 12,
+    "bathrooms": 4,
+    "ratings": 4.5
+  },
+  {
+    "location": "Khao Lak, Thailand",
+    "image": ["https://a0.muscache.com/im/pictures/cf9fe7a4-d052-4455-8b22-10934ecbfd6d.jpg?im_w=960", "https://a0.muscache.com/im/pictures/70c85af4-d39d-4bcd-970d-ca3ab197f9d8.jpg?im_w=720", "https://a0.muscache.com/im/pictures/30e21f90-e0f2-40f6-987c-a478f9c2ff45.jpg?im_w=720"],
+    "dateRange": "9/9/2023 - 9/20/2023",
+    "price": 213,
+    "category": "Windmills",
+    "bedrooms": 8,
+    "beds": 16,
+    "bathrooms": 10,
+    "ratings": 5
+  },
+  {
+    "location": "Thành phố Hội An, Quảng Nam, Vietnam",
+    "image": ["https://a0.muscache.com/im/pictures/108324eb-7a81-49a4-a932-ec527cb66f23.jpg?im_w=960", "https://a0.muscache.com/im/pictures/594711fe-1878-4e43-90c2-d9f7269c4292.jpg?im_w=720", "https://a0.muscache.com/im/pictures/48792f99-7c56-4e4c-bb66-790325530bbe.jpg?im_w=720"],
+    "dateRange": "9/6/2023 - 9/22/2023",
+    "price": 213,
+    "category": "Windmills",
+    "bedrooms": 4,
+    "beds": 6,
+    "bathrooms": 4,
+    "ratings": 4
+  },
+  {
+    "location": "Thành phố Hội An, Quảng Nam, Vietnam",
+    "image": ["https://a0.muscache.com/im/pictures/4f0238fe-c41f-43cd-aaac-0be749c572e2.jpg?im_w=960", "https://a0.muscache.com/im/pictures/01339f5f-9993-4994-9e0b-6cd7239b9b7d.jpg?im_w=720", "https://a0.muscache.com/im/pictures/4ce547c7-f79e-494c-bf52-21b118bb5a83.jpg?im_w=720"],
+    "dateRange": "9/7/2023 - 9/18/2023",
+    "price": 213,
+    "category": "Pools",
+    "bedrooms": 5,
+    "beds": 5,
+    "bathrooms": 5,
+    "ratings": 5
+  },
+    {
+      "location": "Sidemen, Bali",
+      "image": ["https://a0.muscache.com/im/pictures/4f70b681-a792-4530-8c52-f2a8d262942d.jpg", "https://a0.muscache.com/im/pictures/4f70b681-a792-4530-8c52-f2a8d262942d.jpg", "https://a0.muscache.com/im/pictures/4f70b681-a792-4530-8c52-f2a8d262942d.jpg"],
+      "dateRange": "9/3/2023 - 9/19/2023",
+      "price": 456,
+      "category": "Beach",
+      "bedrooms": 4,
+      "beds": 6,
+      "bathrooms": 4,
+      "ratings": 4
+    },
+    {
+      "location": "Abiansemal, Bali",
+      "image": ["https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg", "https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg", "https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg"],
+      "dateRange": "10/1/2023 - 10/20/2023",
+      "price": 513,
+      "category": "Islands",
+      "bedrooms": 9,
+      "beds": 12,
+      "bathrooms": 8,
+      "ratings": 4.5
+    },
+    {
+      "location": "Kecamatan Ubud, Bali",
+      "image": ["https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg", "https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg", "https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg"],
+      "dateRange": "9/1/2023 - 9/14/2023",
+      "price": 456,
+      "category": "Modern",
+      "bedrooms": 2,
+      "beds": 4,
+      "bathrooms": 3,
+      "ratings": 5
+    },
+    {
+      "location": "Koh samui, Thailand",
+      "image": ["https://a0.muscache.com/im/pictures/miso/Hosting-820950793239599563/original/d5c1f686-f06a-4b65-9f55-32e19dc0b23f.jpeg", "https://a0.muscache.com/im/pictures/miso/Hosting-820950793239599563/original/d5c1f686-f06a-4b65-9f55-32e19dc0b23f.jpeg", "https://a0.muscache.com/im/pictures/miso/Hosting-820950793239599563/original/d5c1f686-f06a-4b65-9f55-32e19dc0b23f.jpeg"],
+      "dateRange": "9/9/2023 - 9/23/2023",
+      "price": 513,
+      "category": "Countryside",
+      "bedrooms": 3,
+      "beds": 6,
+      "bathrooms": 4,
+      "ratings": 4
+    },
+  
+    {
+      "location": "Surat Thani, Thailand",
+      "image": ["https://a0.muscache.com/im/pictures/miso/Hosting-820954888871612167/original/f37e01a9-cb1a-446d-be7e-c1d62d1f1c23.jpeg", "https://a0.muscache.com/im/pictures/miso/Hosting-820954888871612167/original/f37e01a9-cb1a-446d-be7e-c1d62d1f1c23.jpeg", "https://a0.muscache.com/im/pictures/miso/Hosting-820954888871612167/original/f37e01a9-cb1a-446d-be7e-c1d62d1f1c23.jpeg"],
+      "dateRange": "10/10/2023 - 10/24/2023",
+      "price": 456,
+      "category": "Islands",
+      "bedrooms": 1,
+      "beds": 3,
+      "bathrooms": 2,
+      "ratings": 5
+    },
+    {
+      "location": "Khao Lak, Thailand",
+      "image": ["https://a0.muscache.com/im/pictures/miso/Hosting-826025597172937112/original/d6bbe2ca-9337-4a7e-a5d3-ca8fe72821db.jpeg?im_w=1200", "https://a0.muscache.com/im/pictures/miso/Hosting-826025597172937112/original/d6bbe2ca-9337-4a7e-a5d3-ca8fe72821db.jpeg?im_w=1200", "https://a0.muscache.com/im/pictures/miso/Hosting-826025597172937112/original/d6bbe2ca-9337-4a7e-a5d3-ca8fe72821db.jpeg?im_w=1200"],
+      "dateRange": "9/1/2023 - 9/14/2023",
+      "price": 345,
+      "category": "Windmills",
+      "bedrooms": 4,
+      "beds": 6,
+      "bathrooms": 4,
+      "ratings": 5
+    },
+    {
+      "location": "Kecamatan Selemadeg, Bali",
+      "image": ["https://a0.muscache.com/im/pictures/miso/Hosting-807995199727408777/original/3ba641e8-f9be-41cb-b834-aba9695726fa.jpeg", "https://a0.muscache.com/im/pictures/miso/Hosting-807995199727408777/original/3ba641e8-f9be-41cb-b834-aba9695726fa.jpeg", "https://a0.muscache.com/im/pictures/miso/Hosting-807995199727408777/original/3ba641e8-f9be-41cb-b834-aba9695726fa.jpeg"],
+      "dateRange": "9/18/2023 - 9/30/2023",
+      "price": 513,
+      "category": "Beach",
+      "bedrooms": 6,
+      "beds": 12,
+      "bathrooms": 4,
+      "ratings": 4.5
+    },
+    {
+      "location": "Khao Lak, Thailand",
+      "image": ["https://a0.muscache.com/im/pictures/miso/Hosting-826732383054098647/original/457337ee-af64-462f-90d0-b9fa1ce98a73.jpeg", "https://a0.muscache.com/im/pictures/miso/Hosting-826732383054098647/original/457337ee-af64-462f-90d0-b9fa1ce98a73.jpeg", "https://a0.muscache.com/im/pictures/miso/Hosting-826732383054098647/original/457337ee-af64-462f-90d0-b9fa1ce98a73.jpeg"],
+      "dateRange": "9/1/2023 - 9/14/2023",
+      "price": 213,
+      "category": "Islands",
+      "bedrooms": 8,
+      "beds": 16,
+      "bathrooms": 10,
+      "ratings": 5
+    },
+    {
+      "location": "Khao Lak, Thailand",
+      "image": ["https://a0.muscache.com/im/pictures/miso/Hosting-826726918494647682/original/d1586407-7873-4c15-91e2-61ab713d2aca.jpeg", "https://a0.muscache.com/im/pictures/miso/Hosting-826726918494647682/original/d1586407-7873-4c15-91e2-61ab713d2aca.jpeg", "https://a0.muscache.com/im/pictures/miso/Hosting-826726918494647682/original/d1586407-7873-4c15-91e2-61ab713d2aca.jpeg"],
+      "dateRange": "10/1/2023 - 10/22/2023",
+      "price": 213,
+      "category": "Pools",
+      "bedrooms": 4,
+      "beds": 6,
+      "bathrooms": 4,
+      "ratings": 4
+    },
+    {
+      "location": "Kecamatan Ubud, Bali",
+      "image": ["https://a0.muscache.com/im/pictures/miso/Hosting-812919482265584093/original/c60bc2f2-7d16-4f7d-acf2-44c2f855fb81.jpeg", "https://a0.muscache.com/im/pictures/miso/Hosting-812919482265584093/original/c60bc2f2-7d16-4f7d-acf2-44c2f855fb81.jpeg", "https://a0.muscache.com/im/pictures/miso/Hosting-812919482265584093/original/c60bc2f2-7d16-4f7d-acf2-44c2f855fb81.jpeg"],
+      "dateRange": "9/11/2023 - 9/26/2023",
+      "price": 213,
+      "category": "Pools",
+      "bedrooms": 5,
+      "beds": 5,
+      "bathrooms": 5,
+      "ratings": 5
+    }
+  ]
